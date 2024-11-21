@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "394129669406",
+    "project_id": "cropx-6f03a",
+    "storage_bucket": "cropx-6f03a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394129669406:android:a5c665369b7af6bb6e1d0f",
+        "android_client_info": {
+          "package_name": "com.example.cropx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR_6lVgkJbRBaD1keo9b3a1c6z1CD2rio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
